@@ -7,7 +7,7 @@ ReactDOM.render(<App />, document.getElementById("root"));
 function App() {
   return (
     <div className="App">
-      <header className="App-header">Learn React with Tailwind</header>
+      <header className="shadow-sm p-4">ReactJS with TailwindCSS</header>
     </div>
   );
 }

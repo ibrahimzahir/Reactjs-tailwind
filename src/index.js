@@ -10,7 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
 
-    <div className="grid grid-cols-4">
+    <div className="">
       <RComponents />
     </div>
   </React.StrictMode>,
